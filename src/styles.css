@@ -29,4 +29,5 @@ body {
     color: white;
     text-align: center;
     margin: 25px;
+    max-width: 45%;
 }
