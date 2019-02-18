@@ -31,3 +31,7 @@ body {
     margin: 25px;
     max-width: 45%;
 }
+
+a:visited {
+    color: slateblue;
+}
